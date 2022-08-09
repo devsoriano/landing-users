@@ -23,8 +23,19 @@ yarn install
 _una vez instaladas las utilerías de node, ejecutar:_
 
 ```
-npm dev
+yarn dev
 ```
+
+_credenciales de login:_
+
+```
+{
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
+```
+
+
 
 
 
